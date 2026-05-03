@@ -23,13 +23,13 @@ It includes:
 ## 📊 Results
 
 ### 🔹 Sentiment Distribution
-![Sentiment](images/vader_distribution.png)
+![Sentiment](vader_distribution_distribution.png)
 
 ### 🔹 Fake Review Detection
-![Fake Review](images/fake_review_detection.png)
+![Fake Review](fake_review_detection.png)
 
 ### 🔹 Dashboard
-![Dashboard](images/dashboard.png)
+![Dashboard](nlp_capstone_dashboard.png)
 
 ---
 
