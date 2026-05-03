@@ -23,7 +23,7 @@ It includes:
 ## 📊 Results
 
 ### 🔹 Sentiment Distribution
-![Sentiment](vader_distribution_distribution.png)
+![Sentiment](vader_sentiment_distribution.png)
 
 ### 🔹 Fake Review Detection
 ![Fake Review](fake_review_detection.png)
